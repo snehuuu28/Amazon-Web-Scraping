@@ -31,13 +31,17 @@ When scraping websites, it is essential to follow ethical guidelines:
 ```bash
 jupyter notebook Laptop_Products.ipynb
 ```
-The scraped data will be saved as `data/Laptop Products.csv`.
+The scraped data will be saved as [`data/Laptop Products.csv`](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv).
+
+[View Laptop Scraper Notebook](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb)
 
 ### 2️⃣ Scrape iPhone 15 Reviews
 ```bash
 jupyter notebook Iphone_Review.ipynb
 ```
-The scraped data will be saved as `data/Iphone 15 Amazon Reviews.csv`.
+The scraped data will be saved as [`data/Iphone 15 Amazon Reviews.csv`](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv).
+
+[View iPhone Review Scraper Notebook](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb)
 
 ---
 
